@@ -1,0 +1,33 @@
+body{
+    background-color: #FFFF00;
+}
+
+.emoji-rating{
+    background-color: white;
+    margin: 10px;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+}
+
+.emoji-rating h1{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+   
+    padding: 25px;
+}
+
+.emoji-rating .smile{
+   text-align: center;
+}
+
+.smile i{
+    font-size: 25px;
+    padding: 10px;
+}
+
+.smile .active{
+    background-color: #FFFF00;
+}
